@@ -5,29 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3c7b66b1-a267-419b-9e4a-175554fd8da9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch10.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sec1/Gen1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sec1/Gen2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sec1/Gen3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sec1/Gen4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sec1/GenEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sec1/GenEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sec1/GenEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sec1/InterGen3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sec2/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sec2/Multi1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sec2/Multi2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sec2/Multi4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sec2/MultiEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sec2/MultiEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sec2/MultiEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch11/src/sec1/ListEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch11/src/sec1/ListEx3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch11/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ch11/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch11/src/sec1/ListEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ch11/src/sec1/ListEx1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +26,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="2SoXEMrJVTyJa18WwusvYTv4fsH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -53,21 +36,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/db400tea/IdeaProjects/ch09&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/db400tea/IdeaProjects/ch10/src/Main.java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/db400tea/IdeaProjects/ch11",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "onboarding.tips.debug.path": "C:/Users/db400tea/IdeaProjects/ch10/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.MultiEx2">
     <configuration name="GenEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sec1.GenEx1" />
@@ -141,6 +124,7 @@
       <workItem from="1689813796334" duration="9918000" />
       <workItem from="1689829447007" duration="1227000" />
       <workItem from="1689840712499" duration="33000" />
+      <workItem from="1689897514032" duration="1378000" />
     </task>
     <servers />
   </component>
